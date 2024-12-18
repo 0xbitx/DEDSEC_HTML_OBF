@@ -6,7 +6,6 @@
 <h1 align="center"> DEDSEC_HTML_OBF </h1>
 <h4 align="center"> DEDSEC_HTML_OBF can improves html code security by obfuscating, adding complexity to code trespassers.</h4>
 
-
 ## DESCRIPTION
 
 DEDSEC_HTML_OBF is a Linux-based tool that enhances HTML code security by obfuscating it. This process introduces complexity, making it more challenging for others to comprehend the code.
@@ -14,7 +13,6 @@ DEDSEC_HTML_OBF is a Linux-based tool that enhances HTML code security by obfusc
 ## INSTALLATION 
     * git clone https://github.com/0xbitx/DEDSEC_HTML_OBF.git
     * cd DEDSEC_HTML_OBF
-    * pip install tabulate pystyle
     * chmod +x dedsec_html_obf
     * ./dedsec_html_obf
 
@@ -22,9 +20,6 @@ DEDSEC_HTML_OBF is a Linux-based tool that enhances HTML code security by obfusc
 * Kali Linux
 * Parrot OS
 * Ubuntu
-
-### LANGUAGE 
-* Python
 
 ## Support
 
