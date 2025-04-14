@@ -13,6 +13,7 @@ DEDSEC_HTML_OBF is a Linux-based tool that enhances HTML code security by obfusc
 ## INSTALLATION 
     * git clone https://github.com/0xbitx/DEDSEC_HTML_OBF.git
     * cd DEDSEC_HTML_OBF
+    * pip3 install requests beautifulsoup4 tabulate
     * chmod +x dedsec_html_obf
     * ./dedsec_html_obf
 
